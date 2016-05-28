@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sampleintent</string>
+    <string name="ke_activity_1">Ke activity 1</string>
+    <string name="ke_activity_2">ke activity 2</string>
+    <string name="ke_activity_dial">ke activity dial</string>
+    <string name="halo_ini_adalah_activity_sub_1">Halo ini adalah Activity Sub 1</string>
+    <string name="data_yg_dikirim">Data yang dikirim</string>
+    <string name="title_activity_sub1">Sub1Activity</string> />
+    <string name="title_activity_sub2">Sub2Activity</string> />
+    />
+</resources>
